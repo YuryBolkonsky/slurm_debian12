@@ -1,4 +1,4 @@
-# Slurm Cluster Installation Guide
+# Slurm Debian12 Installation Guide
 
 ## 1️⃣ Requirements (before installation)
 
